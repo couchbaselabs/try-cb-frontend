@@ -1,3 +1,8 @@
+> :warning: *IMPORTANT* this repository is out of date.
+> From Couchbase Server 7.0, please see https://github.com/couchbaselabs/try-cb-frontend-v2
+
+<hr />
+
 Angular 2 Front End for CB Reference Application
 ===============
 
